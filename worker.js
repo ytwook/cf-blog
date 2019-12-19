@@ -2,15 +2,15 @@
  *
  *  Cloudflare Workers Blog
  *
- *  https://github.com/LittleRey/Worker-Blog
+ *  https://github.com/LittleRey/cf-Blog
  *
  */
 
 // 定义 Github 项目，文章会从这里读取
-const github_base = "LittleRey/Worker-Blog";
+const github_base = "ytwook/cf-blog";
 
 // 站点名称
-const site_name = "BuildTest Blog";
+const site_name = "ok Blog";
 
 // 站点介绍
 const site_desc = "一个用 CloudFlare Worker 搭建的博客";
